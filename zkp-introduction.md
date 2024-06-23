@@ -1,7 +1,7 @@
 ZKPs'yi güvenilir ancak biraz kaba bir araba gibi düşün. İşini görür, sırları ifşa etmeden bilgiyi kanıtlar. ZkSNARKs ise ZKP dünyasının şık, yüksek performanslı spor arabalarıdır.
 Temel prensibi korurken, etkileyici özellikler eklerler ve bu da onları oyun değiştirici yapar:
 
-### Hız Canavarları:ü
+### Hız Canavarları:
 ZkSNARK kanıtları inanılmaz derecede kompakttır, geleneksel ZKP kanıtlarından önemli ölçüde daha küçüktür.
 Bu, şimşek hızında doğrulama süreleri anlamına gelir. Bir blockchain üzerindeki bir işlemi göz açıp kapayıncaya kadar doğrulamak gibi düşünün ,
 – işte ZkSNARK'lar bu hızı getirir. Artık işleminizin işlenmesini beklerken uzun kuyruklarda beklemenize gerek yok!
